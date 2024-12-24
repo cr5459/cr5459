@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently a student at Duke University studying computer science!!
 
 <!--
 **cr5459/cr5459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
